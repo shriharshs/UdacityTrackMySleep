@@ -6,3 +6,8 @@
 /build
 /captures
 .externalNativeBuild
+LICENSE.txt
+README.md
+screenshots/sleep_quality_tracker_quality.png
+screenshots/sleep_quality_tracker_start.png
+screenshots/sleep_quality_tracker_stop.png
